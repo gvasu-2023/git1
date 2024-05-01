@@ -1,2 +1,3 @@
  # git1
-hello my names is vasu and i love karunya 
+hello my names is vasu and i love karunya.
+
